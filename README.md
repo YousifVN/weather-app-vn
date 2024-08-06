@@ -1,4 +1,4 @@
-# Weather App Vue
+# Weather App VN
 
 A weather application built with Vue 3, Tailwind CSS, and Vite.
 
@@ -18,12 +18,6 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint and Fix Files
-
-```sh
-npm run lint
 ```
 
 ## Using Tailwind CSS
